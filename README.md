@@ -1,6 +1,4 @@
 <h1> Welcome!!</h1>
-<h3>Eu sou a Luana Sostisso</h3>
-
 
 - 👨‍💻 Estudante de Ciências da Computação/pucrs
 - 📟 Técnica em Eletrônica/fundação liberato
