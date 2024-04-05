@@ -1,7 +1,7 @@
 <h1> Welcome!!</h1>
 
 - 👨‍💻 Estudante de Ciências da Computação/pucrs
-- 📟 Técnica em Eletrônica/fundação liberato
+- 📟 Técnica em Eletrônica/Fundação Liberato
 - 😄 Entusiasta em programação e gosto de matemática!
 
 <div>
